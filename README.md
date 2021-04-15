@@ -7,12 +7,27 @@ Quand le patient passe à la salle de consultation il change d’étiquette et d
 Il est finalement marqué ‘Examiné’ à sa sortie de la salle de consultation.
 Votre base de données doit conserver les informations sur les médecins (matricule, nom,
 prénom, spécialité).
+
+
+
+
 Travail à faire :
 -Réaliser le diagramme de classes.
+
+
 -Développer la partie backend avec Nodejs et mongoDb.
+
+
 -Utiliser ejs(Template Engine) pour générer vos fichiers HTML.
+
+
+
 -Réaliser des pages Signin / Login en utilisant JWT.
 Veiller à :
+
+
 -Respecter le MVC pattern.
+
+
 -Créer les différents fichiers head,header,et footer pour pouvoir les inclurent dans vos fichier 
 HTML
